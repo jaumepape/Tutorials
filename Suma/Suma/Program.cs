@@ -1,4 +1,4 @@
-﻿var a = 7;
-var b = 3;
+﻿var a = 70;
+var b = 30;
 var sum = a + b;
 Console.WriteLine(sum);
