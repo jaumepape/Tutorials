@@ -1,0 +1,15 @@
+/Users/jaume/Documents/source/C#/Tutorials/Suma/Suma/bin/Debug/net9.0/Suma
+/Users/jaume/Documents/source/C#/Tutorials/Suma/Suma/bin/Debug/net9.0/Suma.deps.json
+/Users/jaume/Documents/source/C#/Tutorials/Suma/Suma/bin/Debug/net9.0/Suma.runtimeconfig.json
+/Users/jaume/Documents/source/C#/Tutorials/Suma/Suma/bin/Debug/net9.0/Suma.dll
+/Users/jaume/Documents/source/C#/Tutorials/Suma/Suma/bin/Debug/net9.0/Suma.pdb
+/Users/jaume/Documents/source/C#/Tutorials/Suma/Suma/obj/Debug/net9.0/Suma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaume/Documents/source/C#/Tutorials/Suma/Suma/obj/Debug/net9.0/Suma.AssemblyInfoInputs.cache
+/Users/jaume/Documents/source/C#/Tutorials/Suma/Suma/obj/Debug/net9.0/Suma.AssemblyInfo.cs
+/Users/jaume/Documents/source/C#/Tutorials/Suma/Suma/obj/Debug/net9.0/Suma.csproj.CoreCompileInputs.cache
+/Users/jaume/Documents/source/C#/Tutorials/Suma/Suma/obj/Debug/net9.0/Suma.sourcelink.json
+/Users/jaume/Documents/source/C#/Tutorials/Suma/Suma/obj/Debug/net9.0/Suma.dll
+/Users/jaume/Documents/source/C#/Tutorials/Suma/Suma/obj/Debug/net9.0/refint/Suma.dll
+/Users/jaume/Documents/source/C#/Tutorials/Suma/Suma/obj/Debug/net9.0/Suma.pdb
+/Users/jaume/Documents/source/C#/Tutorials/Suma/Suma/obj/Debug/net9.0/Suma.genruntimeconfig.cache
+/Users/jaume/Documents/source/C#/Tutorials/Suma/Suma/obj/Debug/net9.0/ref/Suma.dll
